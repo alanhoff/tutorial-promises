@@ -23,7 +23,7 @@ node controle-de-fluxo.js
  * [fallback.js](/fallback.js) mostra como criar uma função que aceita tanto
  callbacks como promises.
 
- * ['cache.js'](/cache.js) ensina como fazer o cache de promises para poupar
+ * [cache.js](/cache.js) ensina como fazer o cache de promises para poupar
  I/O do seu sistema.
 
 ### Licença
