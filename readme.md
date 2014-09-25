@@ -20,6 +20,12 @@ node controle-de-fluxo.js
  * [implementacao.js](/implementacao.js) demonstra como criar funções e módulos
  que utilizam promises.
 
+ * [fallback.js](/fallback.js) mostra como criar uma função que aceita tanto
+ callbacks como promises.
+
+ * ['cache.js'](/cache.js) ensina como fazer o cache de promises para poupar
+ I/O do seu sistema.
+
 ### Licença
 
 Copyright (c) 2014 Alan Hoffmeister
