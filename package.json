@@ -1,0 +1,16 @@
+{
+  "name": "promises",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "author": "Alan Hoffmeister <alanhoffmeister@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.3.2",
+    "request": "^2.44.0"
+  }
+}
