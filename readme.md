@@ -14,7 +14,7 @@ node controle-de-fluxo.js
 
 ### Tutoriais
 
- * [controle-de-flusx.js](/controle-de-fluxo.js) serve para demonstrar como
+ * [controle-de-fluxo.js](/controle-de-fluxo.js) serve para demonstrar como
  criar uma cadeia de promises e controlar o fluxo assíncrono da sua aplicação.
 
  * [implementacao.js](/implementacao.js) demonstra como criar funções e módulos
